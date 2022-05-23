@@ -73,8 +73,7 @@ ul {
   padding-left: 15px;
   padding-right: 15px;
   width: 1200px;
-  /* outline: 2px solid red; */
-}
+ }
 
 .section {
   padding-top: 94px;
@@ -94,6 +93,8 @@ ul {
 }
 .logo.link {
   color: var(--logo-black);
+  margin-top: 24px;
+  margin-bottom: 25px;
   margin-right: 93px;
 }
 
